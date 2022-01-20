@@ -1,0 +1,142 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+    background-color: #f8f5fd;
+}
+
+/* Navbar */
+#shoecleaning-text {
+    font-family: "Londrina Solid", cursive;
+    font-size: 28px;
+    color: #ffffff;
+}
+
+#nav-item {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#login-button {
+    font-size: 18px;
+    font-weight: 600;
+    color: #8f5bd8;
+}
+
+#userdropdown {
+    font-size: 18px;
+    font-weight: 600;
+    color: #8f5bd8;
+}
+/* Navbar */
+
+/* Home Admin */
+#welcome {
+    font-size: 26px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#ordersaya-desc {
+    font-size: 16px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+/* Home Admin */
+
+/* Table */
+#table-head {
+    font-size: 17px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-item {
+    font-size: 15px;
+    font-weight: 500;
+    color: #504a4a;
+}
+/* Table */
+
+/* Order Detail */
+#invoice-title {
+    font-family: "Londrina Solid", cursive;
+    font-size: 36px;
+    color: #8f5bd8;
+}
+
+#table-left {
+    font-size: 18px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-right {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#kasir {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#bottom-text-invoice {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#span-bottom-invoice {
+    color: #8f5bd8;
+}
+
+#update-button {
+    background-color: #8f5bd8;
+    color: #ffffff;
+}
+/* Order Detail */
+
+/* Profile */
+#profile-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+/* Footer */
+#footer {
+    background: #8f5bd8;
+}
+
+#shoecleaning-footer {
+    font-family: "Londrina Solid", cursive;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+#desc-col1 {
+    font-size: 17px;
+}
+
+#footer-text {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+#desc-col1 {
+    font-size: 14px;
+    color: #ffffff;
+}
+/* Footer */
