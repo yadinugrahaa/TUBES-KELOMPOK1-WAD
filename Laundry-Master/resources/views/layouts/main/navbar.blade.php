@@ -62,6 +62,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#testimonials">Testimonial</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          
    
         
           @auth
