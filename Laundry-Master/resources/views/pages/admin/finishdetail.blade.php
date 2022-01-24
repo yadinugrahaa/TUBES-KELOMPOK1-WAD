@@ -63,14 +63,14 @@
                 <div class="text-center">
                     <img src="images/ttd.png" id="ttd" alt="">
                 </div>
-                <p class="text-center" id="kasir">Felicia Ningrum</p>
+                <p class="text-center" id="kasir">Admin Zepatoe</p>
             </div>
         </div>
 
         <div class="row justify-content-center">
             <div class="col-9">
                 <p id="bottom-text-invoice">Invoice ini sah dan diproses oleh komputer <br>
-                    Silahkan hubungi <span id="span-bottom-invoice">ShoeCleaning Help</span> apabila anda membutuhkan
+                    Silahkan hubungi <span id="span-bottom-invoice">Zepatoe Shoes Help</span> apabila anda membutuhkan
                     bantuan.</p>
             </div>
         </div>

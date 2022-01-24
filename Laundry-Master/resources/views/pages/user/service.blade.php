@@ -43,6 +43,7 @@
                 <h4 id='ServicePrice' class="pt-2">Rp. 40.000</h4>
                 <p class="pt-2" id='ServiceDesc'>Pembersihan mendalam pada bagian atas, tengah, dan tali.
                     Opsi ini menargetkan noda dan kotoran yang membandel.</p>
+                    <br></br>
                 <div>
                     <form action="/Order" method="get">
                         <!-- nama product -->
@@ -75,7 +76,7 @@
                     <h4 id='ServiceTitle'>Premium Clean</h4>
                     <h4 class="pt-2" id='ServicePrice'>Rp. 45.000</h4>
                     <p class="pt-2" id='ServiceDesc'>Clean Standard untuk sneakers dengan bahan premium seperti suede
-                        dan Primeknit. Juga untuk fashion sneakers seperti Gucci, Balenciaga, DLL..</p>
+                        dan Primeknit. Juga untuk fashion sneakers seperti Gucci, Balenciaga, dll.</p>
                     <div>
                         <form action="/Order" method="get">
                             <!-- nama product -->

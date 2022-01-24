@@ -6,7 +6,7 @@
     <div class="container pt-5 pb-5">
         <div class="row justify-content-center">
             <div class="col-9">
-                <h4 id="invoice-title" class="pb-3">ShoeCleaning <span id="span-invoice">Invoice</span></h4>
+                <h4 id="invoice-title" class="pb-3">Zepatoe Shoes <span id="span-invoice">Invoice</span></h4>
                 <hr style="color: #504a4a; height: 2px;">
                 <table>
                     <tbody>

@@ -24,7 +24,7 @@
 <section>
     <div class="container pt-5 pb-5">
         <h4 id="ordersaya-title">Pesanan Saya</h4>
-        <p id="ordersaya-desc" class="pt-3">Layanan ShoeCleaning sudah ditambahkan ke keranjang belanja anda</p>
+        <p id="ordersaya-desc" class="pt-3">Layanan Zepatoe Shoes sudah ditambahkan ke keranjang belanja anda</p>
 
         <div class="col pt-5 pb-5">
             <table class="table">

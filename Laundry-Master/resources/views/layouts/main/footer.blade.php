@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col align-self-center">
             <div class="footer-info">
               <h3>Zepatoe Shoes</h3>
               <p class="pb-3"><em>Semoga dengan adanya inovasi untuk tugas besar ini bisa menjadikan ilmu yang bermanfaat dan dapat dikembangkan menjadi aplikasi yang berguna untuk orang orang.</em></p>

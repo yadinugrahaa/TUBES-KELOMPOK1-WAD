@@ -589,8 +589,10 @@ section {
   }
 }
 .breadcrumbs h2 {
+  font-family: "Poppins", Tahoma;
   font-size: 24px;
   font-weight: 400;
+  
   margin: 0;
 }
 @media (max-width: 992px) {
@@ -605,6 +607,7 @@ section {
   padding: 0;
   margin: 0;
   font-size: 14px;
+  font-family: "Poppins", Tahoma;
 }
 .breadcrumbs ol li + li {
   padding-left: 10px;
@@ -900,11 +903,11 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
-  padding: 80px 0;
-  background: url("../img/cta-bg.jpg") no-repeat;
+  background: url("../img/hero-bg.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
+  height: 480px;
 }
 .testimonials::before {
   content: "";
@@ -916,7 +919,7 @@ section {
   background: rgba(1, 3, 111, 0.8);
 }
 .testimonials .section-header {
-  margin-bottom: 40px;
+  margin-bottom: 0 px;
 }
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
@@ -926,7 +929,7 @@ section {
   color: #fff;
 }
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 80px;
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
@@ -975,14 +978,14 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #1acc8d;
 }
-@media (min-width: 1024px) {
+@media (min-width: 524px) {
   .testimonials {
     background-attachment: fixed;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 522px) {
   .testimonials .testimonial-item p {
-    width: 80%;
+    width: 40%;
   }
 }
 
@@ -1139,6 +1142,7 @@ section {
 .pricing .featured h3 {
   color: #fff;
   background: #1acc8d;
+  padding: 200px 0 px 0; 
 }
 .pricing .advanced {
   width: 200px;
@@ -1149,7 +1153,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #1acc8d;
+  background: #f50a0a;
   color: #fff;
 }
 

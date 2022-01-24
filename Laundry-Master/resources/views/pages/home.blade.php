@@ -91,13 +91,15 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="box featured" data-aos="zoom-in" data-aos-delay="100">
-                
               <h3 class="pt-2 pb-2 " >Standart Clean</h3>
-              <img id="img-layanan" src="images/standart.png" alt="">
-              <h4 ><sup>Rp.</sup>30.000<span> / Shoes</span></h4>
+              <img id="img-layanan" src="images/standart.png" alt="" style="height: 200px;width: 200px;">
+              <br></br>
+              <h4 ><sup>Rp.</sup>30.000<span> /Shoes</span></h4>
               <ul>
-                <li>Canvas</li>
-                <li>Polyester</li>
+                <br>Canvas</br>
+                <br>Polyester</br>
+                <li></li>
+                <li></li>
               </ul>
               <div class="btn-wrap">
                 <a href="/Service" class="btn-buy">Order Now</a>
@@ -108,12 +110,14 @@
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
             <div class="box featured" data-aos="zoom-in" data-aos-delay="200">
               <h3 class="pt-2 pb-2">Deep Clean</h3>
-              <img id="img-layanan" src="images/deep.png" alt="">
-              <h4><sup>Rp.</sup>40.000<span> / Shoes</span></h4>
+              <img id="img-layanan" src="images/deep.png" alt="" style="height: 200px;width: 200px;">
+              <br></br>
+              <h4><sup>Rp.</sup>40.000<span> /Shoes</span></h4>
               <ul>
                 <li>Leather</li>
                 <li>Suede</li>
                 <li>Nubac</li>
+
               </ul>
               <div class="btn-wrap">
                 <a href="/Service" class="btn-buy">Order Now</a>
@@ -124,13 +128,13 @@
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
             <div class="box featured" data-aos="zoom-in" data-aos-delay="300">
               <h3 class="pt-2 pb-2" >Premium Clean</h3>
-              <img id="img-layanan" src="images/premium.png" alt="">
-              <h4><sup>Rp.</sup>45.000<span> / Shoes</span></h4>
+              <img id="img-layanan" src="images/premium.png" alt="" style="height: 200px;width: 200px;">
+              <br></br>
+              <h4><sup>Rp.</sup>45.000<span> /Shoes</span></h4>
               <ul>
+                <li></li>
                 <li>All Material</li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <br></br>
                 <li></li>
               </ul>
               <div class="btn-wrap">
@@ -143,12 +147,13 @@
             <div class="box featured" data-aos="zoom-in" data-aos-delay="400">
               <span class="advanced" class="bi bi-info-circle text-primary">Promo</span>
               <h3 class="pt-2 pb-2">Treatment</h3>
-              <img id="img-layanan" src="images/weekend.png" alt="">
-              <h4><sup>Rp.</sup>50.000<span> / Shoes</span></h4>
+              <img id="img-layanan" src="images/weekend.png" alt="" style="height: 200px;width: 200px;">
+              <br></br>
+              <h4><sup>Rp.</sup>50.000<span> /Shoes</span></h4>
               <ul>
                 <li>Unyellowing</li>
                 <li>Special Treatment</li>
-    
+                <br><br>
               </ul>
               <div class="btn-wrap">
                 <a href="/Service" class="btn-buy">Buy Now</a>
@@ -260,18 +265,18 @@
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container">
-
+        
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Customer 1</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Muhammad Rizqan Aditama</h3>
+                <h4>Ketua Himpunan Mahasiswa Private Village Cikoneng</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Alhamdulillah sejak adanya laundry sepatu dengan pelayanan secara online dan bisa antar jemput sekarang saya tidak perlu jauh-jauh jalan kaki dari Cikoneng ke Telkom hanya untuk mencuci sepatu. Sekali telfon, urusan sepatu kelar.Mantap, kasih bintang 5 bro!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -280,11 +285,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Customer 2</h3>
-                <h4>Designer</h4>
+                <h3>Geldisen Afrananta Sitohang </h3>
+                <h4>Ketua Playboy Indonesia</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Puji tuhan sepatu saya kinclong sejak memakai jasa cuci sepatu di Zeopato!Saya semakin terlihat mempesona dari kepala hingga kaki di mata semua wanita Indonesia. Thank you all!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -293,11 +298,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Customer 3</h3>
-                <h4>Store Owner</h4>
+                <h3>Amira Jauhara Diffa </h3>
+                <h4>Pengusaha Cabe Rawit Tangerang</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Syukron kasiron Zepatoe. Telah mencuci sepatu-sepatu mahal saya dengan pelayanan yang sangat detail, bersih, dan mengkilap. Dengan adanya pelayanan bintang 5 dari Zepatoe ini, pencucian sepatu saya gampang, aman dan melebihi ekspektasi. Sekali lagi terimakasih Zepatoe!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -306,11 +311,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Customer 4</h3>
-                <h4>Freelancer</h4>
+                <h3>Muhammad Daffi Daulay</h3>
+                <h4>Pendaki Gunung Medan </h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                Bintang 5 untuk pelayanan Zepatoe. Sepatu saya yang dicuci disini selalu bersih dan hasil cuciannya memuaskan sekali. Sudah pasti langganan terus sih!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -319,11 +324,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>Customer 5</h3>
-                <h4>Entrepreneur</h4>
+                <h3>Mubeth Praditya</h3>
+                <h4>Kolektor Album Kpop</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                Padahal saya punya jenis sepatu yang banyak sekali dan susah di treatment, tapi ternyata di Zepatoe jenis sepatu apapun bisa ditreatment dengan sangat baik dan bersih. Keren banget, jadi ga takut lagi mau beli sepatu dari Korea karena bisa dicuci di Zepatoe. Aman, bersih wangi berseri seperti indahnya paras Ryujin!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -364,7 +369,7 @@
             <div class="member" data-aos="zoom-in" data-aos-delay="200">
               <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>TIARA HATI GIWANGKAR</h4>
+                <h4>TIARA HATI GIWANGKARA</h4>
                 <span>UI/UX Designer</span>
                 <div class="social">
                   <a href=""><i class="bi bi-linkedin"></i></a>
