@@ -2,7 +2,7 @@
 
 
 @section('webtitle')
-<title>Zeopatoe Shoes | Login</title>
+<title>Zepatoe Shoes | Login</title>
 @endsection
 
 @section('right_content')
@@ -29,7 +29,7 @@
             <div class="d-flex justify-content-center py-4">
                 <a href="/Home" class="logo d-flex align-items-center w-auto">
         
-                  <span class="d-none d-lg-block">Zeopatoe Shoes</span>
+                  <span class="d-none d-lg-block">Zepatoe Shoes</span>
                 </a>
             </div><!-- End Logo -->
 
@@ -69,11 +69,12 @@
                         </div>
 
                         <!-- Button -->
-                        <div class="mb-4">
-                            <button id="login-button" type="submit" name="Masuk" class="btn btn-primary">Masuk</button>
+                        <div class="d-grid gap-2 col-1 mx-auto">
+                            <button id="login-button" type="submit" name="Masuk" class="btn btn-primary text-center">Masuk</button>
                         </div>
                     </div>
                 </form>
+                <br>
                 <div class="mb-4">
                     <p id="link-text-register" class="text-center">Belum punya akun? <a id="link-page"
                             href="/Register">Daftar</a></p>

@@ -171,7 +171,7 @@
           <p class="text-center pt-2 pb-2">Zepatoe Shoes</p>
         </div>
 
-        <p class="text-center pt-2 pb-2" id="desc-carakerja">Zeopatoe didirakan oleh 6 mahasiswa lulusan Sistem Informasi yang mempunyai motivasi tinggi untuk membuat perubahan disekitarnya, berharap inovasi yang dibuat dapat membantu orang banyak.
+        <p class="text-center pt-2 pb-2" id="desc-carakerja">Zepatoe didirakan oleh 6 mahasiswa lulusan Sistem Informasi yang mempunyai motivasi tinggi untuk membuat perubahan disekitarnya, berharap inovasi yang dibuat dapat membantu orang banyak.
         </p>
 
 
@@ -185,23 +185,23 @@
         <div class="row justify-content-around">
             <div class="col-4">
                 <div class="text-center">
-                    <img id="img-carakerja" src="images/order.png" alt="">
+                    <img id="img-carakerja" src="images/orderbaru.png" alt="" style="height: 200px;width: 200px;">
                 </div>
-                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja">Order - </span>Choose
+                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja"><b>Order</b> - </span>Choose
                     our<br>service then order</p>
             </div>
             <div class="col-4">
                 <div class="text-center">
-                    <img id="img-carakerja" src="images/pickup.png" alt="">
+                    <img id="img-carakerja" src="images/pickupbaru.png" alt="" style="height: 200px;width: 200px;">
                 </div>
-                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja">We Pickup - </span>The
+                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja"><b>We Pickup</b> - </span>The
                     driver<br>picks up your shoes</p>
             </div>
             <div class="col-4">
                 <div class="text-center">
-                    <img id="img-carakerja" src="images/deliver.png" alt="">
+                    <img id="img-carakerja" src="images/deliverbaru.png" alt="" style="height: 200px;width: 200px;">
                 </div>
-                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja">We Deliver - </span>Your
+                <p class="text-center pt-3" id="item-carakerja"><span id="slip-color-carakerja"><b>We Deliver</b> - </span>Your
                     shoes are<br>finished, ready to wear
                 </p>
             </div>

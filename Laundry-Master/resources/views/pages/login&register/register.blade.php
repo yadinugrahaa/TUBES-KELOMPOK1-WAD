@@ -11,7 +11,7 @@
     <div class="d-flex justify-content-center py-4">
                 <a href="/Home" class="logo d-flex align-items-center w-auto">
         
-                  <span class="d-none d-lg-block">Zeopatoe Shoes</span>
+                  <span class="d-none d-lg-block">Zepatoe Shoes</span>
                 </a>
     </div><!-- End Logo -->
 
