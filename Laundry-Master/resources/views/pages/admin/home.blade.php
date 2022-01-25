@@ -37,7 +37,7 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col" id="table-head">Tanggal Pesanan</th>
+                            <th scope="col" id="table-head">Jenis Layanan</th>
                             <th scope="col" id="table-head">Nama Pelanggan</th>
                             <th scope="col" id="table-head">Tanggal Pickup</th>
                             <th scope="col" id="table-head">Status Pesanan</th>
