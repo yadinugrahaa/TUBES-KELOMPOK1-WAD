@@ -18,10 +18,8 @@
 @if (count($orders) === 0)
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
-      <div class="container pt-5 pb-9">
-
-        <div class="row" data-aos="fade-up">
-
+      <div class="container">
+        <div class="row justify-content-center" data-aos="fade-up">
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
@@ -59,7 +57,7 @@
 <section id="counts" class="counts">
       <div class="container pt-5 pb-9">
 
-        <div class="row" data-aos="fade-up">
+        <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-3 col-md-6">
             <div class="count-box">

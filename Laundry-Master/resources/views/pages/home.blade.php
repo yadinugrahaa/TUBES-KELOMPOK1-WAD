@@ -219,7 +219,7 @@
     <section id="counts" class="counts">
       <div class="container">
 
-        <div class="row" data-aos="fade-up">
+        <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
