@@ -13,7 +13,9 @@ class MainController extends Controller
     // FOR USER
     public function index()
     {
-        return view('pages.home', ['pages' => 'Home']);
+        $count = DB::table('users')->get()->count();
+        $totalorder = DB::table('orders')->get()->count();
+        return view('pages.home', ['pages' => 'Home'], compact('count','totalorder'));
     }
 
     public function service()
