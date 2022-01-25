@@ -151,4 +151,13 @@ class MainController extends Controller
 
     return redirect()->back()->with('status', 'Berhasil menghapus data.');
     }
+
+    public function viewUserRole()
+    {
+        $useRole = DB::table('users')->get()->count();
+        dd($useRole);
+
+        return view('pages.admin.home', ['pages' => 'Home'], compact('orders'));
+    }
+
 }
