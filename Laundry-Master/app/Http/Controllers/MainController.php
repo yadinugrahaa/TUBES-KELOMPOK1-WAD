@@ -102,9 +102,12 @@ class MainController extends Controller
 
     public function indexAdmin()
     {
+        
+        $count = DB::table('users')->get()->count();
+        $totalorder = DB::table('orders')->get()->count();
         $orders = DB::table('orders')->where('status_cucian', '!=', 'Selesai')->orderBy('created_at', 'asc')->get();
-
-        return view('pages.admin.home', ['pages' => 'Home'], compact('orders'));
+        
+        return view('pages.admin.home', ['pages' => 'Home'], compact('orders','count','totalorder'));
     }
     
     public function orderDetail(Request $request)
@@ -157,7 +160,9 @@ class MainController extends Controller
         $useRole = DB::table('users')->get()->count();
         dd($useRole);
 
-        return view('pages.admin.home', ['pages' => 'Home'], compact('orders'));
+        return view('pages.admin.home', ['pages' => 'Home'], compact('useRole'));
     }
+
+    
 
 }
