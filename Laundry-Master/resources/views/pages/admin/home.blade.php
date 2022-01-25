@@ -133,19 +133,6 @@
                                     </div>
                                 </div>
                             </td>
-                            <td class="align-middle text-center">
-                                <div class="row justify-content-center">
-                                    <div class="col-10">
-                                    <form action="{{ route('hapus.destroy', $order->id) }}" class="d-inline" method="POST">
-                                        @csrf
-                                        @method('DELETE')
-                                        <button type="submit" class="btn btn-danger btn-sm">
-                                            <i class="bi bi-trash"></i>
-                                        </button>
-                                    </form>
-                                    </div>
-                                </div>
-                            </td>
                         </tr>
                         @endforeach
                     </tbody>
