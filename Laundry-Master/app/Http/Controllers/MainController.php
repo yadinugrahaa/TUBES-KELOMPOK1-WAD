@@ -143,4 +143,12 @@ class MainController extends Controller
     {
         return view('pages.admin.profile', ['pages' => 'Profile']);
     }
+
+    public function destroy($id)
+    {
+    $catatan = Order::findOrFail($id);
+    $catatan->delete();
+
+    return redirect()->back()->with('status', 'Berhasil menghapus data.');
+    }
 }

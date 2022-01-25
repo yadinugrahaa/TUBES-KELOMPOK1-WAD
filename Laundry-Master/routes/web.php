@@ -47,3 +47,6 @@ Route::get('/Invoice', [MainController::class, 'invoice'])->middleware('auth');
 Route::get('/Service', [MainController::class, 'service']);
 Route::get('/Order', [MainController::class, 'order'])->middleware('auth');
 Route::post('/Order', [MainController::class, 'store'])->middleware('auth')->name('checkouts');
+
+// Delete
+Route::delete('/catatan-hutang/{id}', [MainController::class, 'destroy'])->name('hapus.destroy');
