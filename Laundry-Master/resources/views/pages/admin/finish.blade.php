@@ -38,7 +38,7 @@
                             <td class="align-middle text-center">
                                 <div class="row justify-content-center">
                                     <div class="col-10">
-                                    <form action="{{ route('hapus.destroy', $order->id) }}" class="d-inline" method="POST">
+                                    <form action="{{ route('hapus.destroy', $order->id) }}" class="d-inline" method="POST" onsubmit="return confirm('Apakah Anda Yakin ?');"> 
                                         @csrf
                                         @method('DELETE')
                                         <button type="submit" class="btn btn-danger btn-sm">
